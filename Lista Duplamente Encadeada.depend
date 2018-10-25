@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540431125 source:/home/joao/Lista-Duplamente-Encadeada/Lista Duplamente Encadeada/main.c
+	<stdio.h>
+	<stdlib.h>
+

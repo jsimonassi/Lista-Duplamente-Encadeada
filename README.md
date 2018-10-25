@@ -1,2 +1,2 @@
 # Lista-Duplamente-Encadeada
-Double-chained list - Abstract Data Type
+Double-chained list with dynamic memory allocation
